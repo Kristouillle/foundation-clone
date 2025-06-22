@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.tailed.app",
+      "sha256_cert_fingerprints": [
+        "D3:8D:FD:81:77:3B:08:76:46:A4:07:5B:33:F3:BD:BC:C7:43:D8:E9:6E:FD:04:E1:D0:6A:7D:24:2C:2A:B4:F4"
+      ]
+    }
+  }
+]
